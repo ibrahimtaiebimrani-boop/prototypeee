@@ -1,0 +1,38 @@
+header{
+    background-color: blue;
+    color: aqua;
+    text-align: center;
+    padding: 20px;
+    margin:0;
+}
+nav ul{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    list-style: none;
+    padding: 20px;
+    background-color: gray;
+}
+nav a{
+    display: inline-block;
+    text-decoration: none;
+    color: yellow;
+}
+main{
+    max-width:1000px;
+    padding: 0 12px;
+    margin:30px auto;
+}
+main section{
+    background-color: aquamarine;
+    padding: 20px;
+    margin-bottom:30px;
+    border-radius:10px;
+    
+}
+footer{
+    background-color: brown;
+    width: 40%;
+   margin-left:170px;
+  
+}
